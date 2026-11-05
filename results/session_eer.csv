@@ -1,0 +1,21 @@
+model,session,mean,std
+Euclidean,5,0.20419,0.07507
+Euclidean,6,0.21759,0.08278
+Euclidean,7,0.20951,0.06549
+Euclidean,8,0.22963,0.08331
+Scaled Manhattan,5,0.08024,0.04641
+Scaled Manhattan,6,0.08090,0.05653
+Scaled Manhattan,7,0.08753,0.05182
+Scaled Manhattan,8,0.08303,0.04124
+Mahalanobis,5,0.08143,0.05653
+Mahalanobis,6,0.07902,0.06792
+Mahalanobis,7,0.08566,0.05463
+Mahalanobis,8,0.07551,0.04690
+One-class SVM,5,0.07475,0.04875
+One-class SVM,6,0.07483,0.05479
+One-class SVM,7,0.08188,0.05285
+One-class SVM,8,0.07486,0.04241
+Random Forest,5,0.06391,0.04163
+Random Forest,6,0.05729,0.04375
+Random Forest,7,0.06351,0.04255
+Random Forest,8,0.07074,0.04310

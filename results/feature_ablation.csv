@@ -1,0 +1,36 @@
+features,n_features,model,mean,std
+H,13,Euclidean,0.13183,0.08255
+H,13,Scaled Manhattan,0.13662,0.08582
+H,13,Mahalanobis,0.13161,0.08659
+H,13,One-class SVM,0.13244,0.08604
+H,13,Random Forest,0.10537,0.05682
+DD,12,Euclidean,0.15695,0.07966
+DD,12,Scaled Manhattan,0.15550,0.08033
+DD,12,Mahalanobis,0.15453,0.08787
+DD,12,One-class SVM,0.14949,0.09191
+DD,12,Random Forest,0.12624,0.06328
+UD,12,Euclidean,0.14741,0.07710
+UD,12,Scaled Manhattan,0.14209,0.07474
+UD,12,Mahalanobis,0.14715,0.08002
+UD,12,One-class SVM,0.14260,0.08217
+UD,12,Random Forest,0.11297,0.05153
+H+DD,25,Euclidean,0.13423,0.06885
+H+DD,25,Scaled Manhattan,0.07632,0.04468
+H+DD,25,Mahalanobis,0.07675,0.05277
+H+DD,25,One-class SVM,0.07318,0.04372
+H+DD,25,Random Forest,0.06195,0.03639
+H+UD,25,Euclidean,0.12880,0.06772
+H+UD,25,Scaled Manhattan,0.07368,0.04324
+H+UD,25,Mahalanobis,0.07918,0.05293
+H+UD,25,One-class SVM,0.07556,0.04571
+H+UD,25,Random Forest,0.06356,0.03704
+H+DD+UD,37,Euclidean,0.13650,0.07143
+H+DD+UD,37,Scaled Manhattan,0.07993,0.04356
+H+DD+UD,37,Mahalanobis,0.08658,0.06127
+H+DD+UD,37,One-class SVM,0.07657,0.04559
+H+DD+UD,37,Random Forest,0.06235,0.03590
+All (+speed),39,Euclidean,0.21944,0.06421
+All (+speed),39,Scaled Manhattan,0.08450,0.04221
+All (+speed),39,Mahalanobis,0.08093,0.04977
+All (+speed),39,One-class SVM,0.07711,0.04396
+All (+speed),39,Random Forest,0.06563,0.03699

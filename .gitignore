@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+# Derived from data/keystroke_events.csv.gz by the pipeline (regenerated each run)
+data/keystroke_features.csv

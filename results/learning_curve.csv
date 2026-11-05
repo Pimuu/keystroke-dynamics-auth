@@ -1,0 +1,26 @@
+model,n_enrol,mean,std
+Euclidean,5,0.28476,0.09078
+Scaled Manhattan,5,0.12153,0.06774
+Mahalanobis,5,0.12965,0.06821
+One-class SVM,5,0.12740,0.07032
+Random Forest,5,0.14548,0.08587
+Euclidean,10,0.27949,0.09154
+Scaled Manhattan,10,0.11481,0.06590
+Mahalanobis,10,0.10780,0.05807
+One-class SVM,10,0.10972,0.05977
+Random Forest,10,0.12829,0.07484
+Euclidean,20,0.26327,0.08608
+Scaled Manhattan,20,0.10603,0.05717
+Mahalanobis,20,0.09049,0.04696
+One-class SVM,20,0.09208,0.04502
+Random Forest,20,0.10318,0.05916
+Euclidean,40,0.24456,0.07273
+Scaled Manhattan,40,0.09558,0.04863
+Mahalanobis,40,0.08410,0.04748
+One-class SVM,40,0.08176,0.04278
+Random Forest,40,0.08163,0.04447
+Euclidean,80,0.21944,0.06421
+Scaled Manhattan,80,0.08450,0.04221
+Mahalanobis,80,0.08093,0.04977
+One-class SVM,80,0.07711,0.04396
+Random Forest,80,0.06563,0.03699
