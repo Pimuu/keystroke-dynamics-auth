@@ -1,0 +1,5 @@
+model,reference,mean_eer_diff,ci95_low,ci95_high,reference_better_users,reference_worse_users,sign_test_p
+Euclidean,Random Forest,0.15382,0.13531,0.17333,40,0,1.819e-12
+Scaled Manhattan,Random Forest,0.018874,0.008592,0.028966,28,11,0.0094753
+Mahalanobis,Random Forest,0.015306,0.0019013,0.028712,25,15,0.15386
+One-class SVM,Random Forest,0.011488,-0.001436,0.024422,26,14,0.08069
